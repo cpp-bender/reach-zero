@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f98b11c1029a1914780c33f00d9942e3, type: 3}
+  m_Name: Grid Data
+  m_EditorClassIdentifier: 
+  cubePrefab: {fileID: 3645591716851156931, guid: 9ee301067c5178a4c887c91181265200, type: 3}
+  initialPos: {x: 0, y: 0, z: 0}
+  width: 5
+  height: 5
+  widthThreshold: 2.5
+  heightThreshold: 2.5
